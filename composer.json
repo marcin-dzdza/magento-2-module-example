@@ -1,5 +1,5 @@
 {
-    "name": "echoecho/module-example",
+    "name": "echoecho/magento-2-module-example",
     "description": "N/A",
     "require": {
         "magento/framework": "101.0.*"
