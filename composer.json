@@ -2,7 +2,7 @@
     "name": "echoecho/magento-2-module-example",
     "description": "N/A",
     "require": {
-        "magento/framework": "100.1.*"
+        "magento/framework": "*"
     },
     "type": "magento2-module",
     "version": "1.0.0",
